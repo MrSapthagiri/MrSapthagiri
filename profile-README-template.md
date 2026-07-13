@@ -13,13 +13,13 @@
 </tr>
 </table>
 
-## Mr Sapthagiri
+## YOUR NAME
 
-**Developer · Builder · Tech Enthusiast**
+**Your Title · Second Thing · Third Thing**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MrSapthagiri-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSapthagiri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MrSapthagiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MrSapthagiri)
-[![Twitter](https://img.shields.io/badge/Twitter-MrSapthagiri-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MrSapthagiri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-YOURHANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
 
 <br>
 
