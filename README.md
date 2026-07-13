@@ -28,24 +28,35 @@
 
 ---
 
-## 🆕 Latest Updates
+## 🆕 Binary ASCII Portrait ⚪💚
 
-**Binary ASCII Art Formats Added** ✨ *(Last Updated: July 13, 2026)*
+**Binary (0/1) Version** - White `0` | Green `1` *(Last Updated: July 13, 2026)*
 
-In addition to the colored ASCII portrait, I've created **binary (0/1) versions** with multiple color schemes:
+A digital representation of my portrait encoded in binary format:
 
-| Format | Description | View |
-|--------|-------------|------|
-| **Binary (Plain)** | Pure 0s and 1s representation | [`binary-portrait.txt`](./binary-portrait.txt) |
-| **Binary (Markdown)** | GitHub-ready binary art | [`binary-portrait.md`](./binary-portrait.md) |
-| **Binary (Web)** | Interactive HTML version | [`binary-portrait.html`](./binary-portrait.html) |
-| **Binary SVG** | 4 color schemes available | See [`BINARY_CONVERSION_GUIDE.md`](./BINARY_CONVERSION_GUIDE.md) |
+```ansi
+[0;37m1111111111000000011111111011[0m
+[0;37m0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000000000000000011111111000000000000000000000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000000000001111111111111011111100000000000000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000000000110111111111110100101011100000000000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000000011111111000111111110101001111100000000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000001111101111111111110111111111111111110000000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000011111111111111111110100111111111111111100000000000000000000000[0m
+[0;37m0000000000000000000000000000000000000011111111111111111111111001111101111111110000000000000000000000[0m
+```
 
-**Color Schemes:**
-- 🔵 **Blue & Red** - Professional tech aesthetic
-- 🟣 **Purple & Cyan** - Cyberpunk neon
-- 🟠 **Orange & Purple** - Warm & energetic  
-- 💚 **Green & Pink** - Classic neon retro
+**Available Formats:**
+- 📄 [Binary (Plain Text)](./binary-portrait.txt) - `0` and `1` only
+- 📋 [Binary (Markdown)](./binary-portrait.md) - GitHub-ready with color codes
+- 🌐 [Binary (Interactive HTML)](./binary-portrait.html) - Toggle colors, download options
+- 🎨 [Binary SVG Variants](./BINARY_CONVERSION_GUIDE.md) - 4 professional color schemes
+
+**Stats:**
+- Total Pixels: 5,403
+- Ones (1): 871 (16.1%)
+- Zeros (0): 4,478 (83.9%)
 
 [📚 Full Documentation](./BINARY_CONVERSION_GUIDE.md) | [🔧 Conversion Script](./svg_to_binary_ascii.py)
 
