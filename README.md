@@ -26,4 +26,27 @@
 <!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
+---
+
+## 🆕 Latest Updates
+
+**Binary ASCII Art Formats Added** ✨ *(Last Updated: July 13, 2026)*
+
+In addition to the colored ASCII portrait, I've created **binary (0/1) versions** with multiple color schemes:
+
+| Format | Description | View |
+|--------|-------------|------|
+| **Binary (Plain)** | Pure 0s and 1s representation | [`binary-portrait.txt`](./binary-portrait.txt) |
+| **Binary (Markdown)** | GitHub-ready binary art | [`binary-portrait.md`](./binary-portrait.md) |
+| **Binary (Web)** | Interactive HTML version | [`binary-portrait.html`](./binary-portrait.html) |
+| **Binary SVG** | 4 color schemes available | See [`BINARY_CONVERSION_GUIDE.md`](./BINARY_CONVERSION_GUIDE.md) |
+
+**Color Schemes:**
+- 🔵 **Blue & Red** - Professional tech aesthetic
+- 🟣 **Purple & Cyan** - Cyberpunk neon
+- 🟠 **Orange & Purple** - Warm & energetic  
+- 💚 **Green & Pink** - Classic neon retro
+
+[📚 Full Documentation](./BINARY_CONVERSION_GUIDE.md) | [🔧 Conversion Script](./svg_to_binary_ascii.py)
+
 </div>
